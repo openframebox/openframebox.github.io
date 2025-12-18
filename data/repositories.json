@@ -1,0 +1,82 @@
+[
+  {
+    "name": "gomigration",
+    "description": "Lightweight and extensible database migration library for Go, designed with simplicity and flexibility in mind",
+    "html_url": "https://github.com/openframebox/gomigration",
+    "stargazers_count": 2,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  },
+  {
+    "name": "goevent",
+    "description": "A type-safe, flexible event bus for Go, providing an elegant wrapper around EventBus with enhanced error handling, synchronization, and per-event waiting capabilities.",
+    "html_url": "https://github.com/openframebox/goevent",
+    "stargazers_count": 0,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  },
+  {
+    "name": "goqueue",
+    "description": "A lightweight, interface-driven queue library that makes it easy to add background job processing to your Go applications.",
+    "html_url": "https://github.com/openframebox/goqueue",
+    "stargazers_count": 0,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  },
+  {
+    "name": "gomail",
+    "description": "A high-performance Go wrapper for `gopkg.in/gomail.v2` with connection pooling, persistent connections, and bulk sending capabilities.",
+    "html_url": "https://github.com/openframebox/gomail",
+    "stargazers_count": 0,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  },
+  {
+    "name": "gostorage",
+    "description": "A flexible, extensible storage abstraction layer for Go that supports multiple backends including local filesystem and AWS S3.",
+    "html_url": "https://github.com/openframebox/gostorage",
+    "stargazers_count": 0,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  },
+  {
+    "name": "goauth",
+    "description": "Pluggable authentication for Go. Build username/password or JWT-based auth with a simple strategy interface, a configurable JWT access-token + refresh-token issuer, and typed errors for clean, predictable error handling.",
+    "html_url": "https://github.com/openframebox/goauth",
+    "stargazers_count": 0,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  },
+  {
+    "name": "govalidator",
+    "description": "A powerful and flexible Go package designed to simplify and enhance data validation for your applications. Built upon the robust github.com/go-playground/validator/v10 library",
+    "html_url": "https://github.com/openframebox/govalidator",
+    "stargazers_count": 0,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  },
+  {
+    "name": "goinit",
+    "description": "A command-line tool to quickly initialize Go projects with pre-configured architectures and templates.",
+    "html_url": "https://github.com/openframebox/goinit",
+    "stargazers_count": 0,
+    "language": "Go",
+    "license": {
+      "spdx_id": "MIT"
+    }
+  }
+]
